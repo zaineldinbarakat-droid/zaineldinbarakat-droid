@@ -18,18 +18,18 @@
 I'm a first-semester **Mechanical Engineering** student at **FH Aachen**, based in Jülich. Engineering is how I like to think — understand how something works, then make it work better — and I bring the same curiosity to software.
 
 - 🎓 Studying Mechanical Engineering (Bachelor) at FH Aachen, since winter semester 2026/27
-- 💻 I design and build **macOS apps** as a hobby — from the first idea and the look and feel to testing, performance tuning and publishing them for anyone to download
-- 🧑‍🏫 I work as a **tutor**: explaining things clearly and patiently is something I enjoy
-- 🔍 What I care about: clean design, things that just work, and finishing what I start
+-  I design and build **macOS apps** as a hobby — from the first idea and the look and feel to testing, performance tuning and publishing them for anyone to download
+-  I work as a **tutor**: explaining things clearly and patiently is something I enjoy
+-  What I care about: clean design, things that just work, and finishing what I start
 
 ### 🇩🇪 Über mich
 
 Ich studiere im ersten Semester **Maschinenbau** an der **FH Aachen** und wohne in Jülich. Ich denke gern wie ein Ingenieur – verstehen, wie etwas funktioniert, und es dann besser machen – und diese Neugier bringe ich auch in die Softwareentwicklung ein.
 
 - 🎓 Maschinenbau-Studium (Bachelor) an der FH Aachen, seit dem Wintersemester 2026/27
-- 💻 In meiner Freizeit entwerfe und entwickle ich **macOS-Apps** – von der ersten Idee und dem Design über Tests und Performance-Optimierung bis zur Veröffentlichung zum Download
-- 🧑‍🏫 Ich arbeite als **Tutor**: Dinge klar und geduldig zu erklären, macht mir Spaß
-- 🔍 Was mir wichtig ist: sauberes Design, Dinge, die einfach funktionieren, und Projekte zu Ende zu bringen
+-  In meiner Freizeit entwerfe und entwickle ich **macOS-Apps** – von der ersten Idee und dem Design über Tests und Performance-Optimierung bis zur Veröffentlichung zum Download
+-  Ich arbeite als **Tutor**: Dinge klar und geduldig zu erklären, macht mir Spaß
+-  Was mir wichtig ist: sauberes Design, Dinge, die einfach funktionieren, und Projekte zu Ende zu bringen
 
 ---
 
