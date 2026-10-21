@@ -35,8 +35,8 @@ Ich studiere im ersten Semester **Maschinenbau** an der **FH Aachen** und wohne 
 
 ### 🛠️ Projects · Projekte
 
-Two native Mac apps, **made to be compatible with each other** — each works on its own, together they feel like one.<br>
-<sub>Zwei native Mac-Apps, **aufeinander abgestimmt** – jede funktioniert für sich, zusammen wirken sie wie eine.</sub>
+Three native Mac apps. Spindle and Sleeve are **made to be compatible with each other** — each works on its own, together they feel like one.<br>
+<sub>Drei native Mac-Apps. Spindle und Sleeve sind **aufeinander abgestimmt** – jede funktioniert für sich, zusammen wirken sie wie eine.</sub>
 
 <table>
   <tr>
@@ -57,11 +57,22 @@ Two native Mac apps, **made to be compatible with each other** — each works on
       <a href="https://github.com/zaineldinbarakat-droid/sleeve/releases/latest/download/Sleeve.zip">⬇︎ Download</a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/zaineldinbarakat-droid/haze"><img src="https://raw.githubusercontent.com/zaineldinbarakat-droid/haze/main/Packaging/Haze-icon.png" width="64" align="left" alt="Haze"></a>
+      <b><a href="https://github.com/zaineldinbarakat-droid/haze">Haze</a></b><br>
+      The iPhone Duo's fold blur on a MacBook — close the lid and the screen frosts over from the top edge down; open it and the haze clears. Follows the lid angle sensor live.<br>
+      <sub>Der Falt-Effekt des iPhone Duo auf dem MacBook – beim Zuklappen verschwimmt der Bildschirm von der Oberkante her, beim Aufklappen wird er wieder scharf. Folgt live dem Winkelsensor des Deckels.</sub>
+      <br><br>
+      <a href="https://github.com/zaineldinbarakat-droid/haze/releases/latest/download/Haze.zip">⬇︎ Download</a>
+    </td>
+  </tr>
 </table>
 
 **What went into them · Was dahintersteckt**
 - Native macOS apps in **Swift**, **SwiftUI** and **AppKit** · Native macOS-Apps mit Swift, SwiftUI und AppKit
 - Measured performance work: idle CPU use cut from over 30 % to about 0.1 % · Messbare Optimierung: CPU-Last im Leerlauf von über 30 % auf ca. 0,1 % gesenkt
+- Reading hardware directly: the MacBook's lid angle sensor over IOKit HID · Hardware direkt auslesen: der Winkelsensor des MacBook-Deckels über IOKit HID
 - Self-updating releases, clear documentation, open source under the MIT license · Selbstaktualisierende Releases, klare Dokumentation, Open Source (MIT-Lizenz)
 
 ---
